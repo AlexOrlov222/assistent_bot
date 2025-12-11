@@ -49,3 +49,5 @@ git commit -m "All project"
 git branch -M main
 git remote add origin https://github.com/AlexOrlov222/assistent_bot
 git push -u origin main
+
+git clone https://github.com/AlexOrlov222/assistent_bot.git
