@@ -44,3 +44,8 @@ git config --list
 git commit -m "Add README"
 git log
 git branch
+git add .
+git commit -m "All project"
+git branch -M main
+git remote add origin https://github.com/AlexOrlov222/assistent_bot
+git push -u origin main
