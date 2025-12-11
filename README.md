@@ -41,3 +41,6 @@ git --version
 git init
 git config --global user.name "Alex"
 git config --list
+git commit -m "Add README"
+git log
+git branch
